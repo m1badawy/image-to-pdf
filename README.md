@@ -40,6 +40,16 @@ project-folder/
 ## License
 This project is open-source.
 
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
 ## Author
-Developed by Mohamed Badawy.
+
+**Mohamed Badawy**
+- Portfolio: [mbadawy.net](https://mbadawy.net)
+- GitHub: [@m1badawy](https://github.com/m1badawy)
+
 
